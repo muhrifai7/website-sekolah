@@ -1,5 +1,4 @@
 
-
   <div class="col-md-10-mt-3 pl-5">
 
      <label for="add_mahasiswa"></label>
@@ -54,8 +53,6 @@
             <label for="kelas">Kelas</label>
             <input type="text" class="form-control" id="kelas" placeholder="Class Name">
           </div>
-
-          
       
           <div class="modal-footer">
             <input type="submit" name="save_mahasiswa" class="btn btn-primary" id="save_mahasiswa" value="Insert">

@@ -1,0 +1,11 @@
+html {
+	font-family: sans-serif;
+}
+#sidebar {
+	margin-top: -25px;
+	padding-left: 5%;
+	background-color: #0241;
+	padding-top: 25px;
+	height: auto;
+	
+}
